@@ -1,0 +1,25 @@
+.header_top {
+    position: relative;
+    margin-top: 10px;
+    height: 18rem;
+    z-index: 1;
+  }
+  
+  .header_top::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url(/people.jpg);
+    filter: blur(5px);
+  }
+
+  .servicepg{
+    margin-top: 250px;
+  }
+  .Pricingpg{
+    margin-top: 30rem;
+    text-align: center;
+  }
