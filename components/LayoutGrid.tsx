@@ -27,37 +27,37 @@ const cards = [
     id: 1,
     content: <SkeletonTwo />,
     thumbnail: "/homepic.jpg",
-    className: "col-span-1", // Added className
+    className: "col-span-1", 
   },
   {
     id: 2,
     content: <SkeletonTwo />,
     thumbnail: "/gallery1.jpg",
-    className: "col-span-1", // Added className
+    className: "col-span-1", 
   },
   {
     id: 3,
     content: <SkeletonTwo />,
     thumbnail: "/gallery2.jpg",
-    className: "col-span-1", // Added className
+    className: "col-span-1",
   },
   {
     id: 4,
     content: <SkeletonTwo />,
     thumbnail: "/gallery4.jpg",
-    className: "col-span-1", // Added className
+    className: "col-span-1", 
   },
   {
     id: 5,
     content: <SkeletonTwo />,
     thumbnail: "/gallery3.png",
-    className: "col-span-1", // Added className
+    className: "col-span-1",
   },
   {
     id: 6,
     content: <SkeletonTwo />,
     thumbnail: "gallery6.jpg",
-    className: "col-span-1", // Added className
+    className: "col-span-1", 
   },
 ];
 
